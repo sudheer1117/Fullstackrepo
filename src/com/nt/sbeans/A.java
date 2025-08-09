@@ -12,6 +12,7 @@ public class A
 	}
 	public String toString()
 	{
+		System.out.println("updated");
 		//returning
 		return "from A";
 	}
