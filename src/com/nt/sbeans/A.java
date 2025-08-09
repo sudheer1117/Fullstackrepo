@@ -12,6 +12,7 @@ public class A
 	}
 	public String toString()
 	{
+		//updating comment
 		System.out.println("updated");
 		//returning
 		return "from A";
